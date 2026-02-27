@@ -21,6 +21,5 @@ https://scorekeeper-game-app.netlify.app/
 - Keeping UI and logic in sync
 
 ## Next Improvements
-- Add period/quarter tracking and a game timer
-- Add keyboard shortcuts
+- Pivot the scoreboard into a games night score tracker for boardgames that allows dynamic team combination and solo efforts
 - Improve accessibility (button labels, focus states)
